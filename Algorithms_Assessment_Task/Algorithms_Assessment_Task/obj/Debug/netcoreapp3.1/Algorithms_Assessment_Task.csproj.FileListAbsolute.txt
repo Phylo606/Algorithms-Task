@@ -1,0 +1,13 @@
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\bin\Debug\netcoreapp3.1\Algorithms_Assessment_Task.exe
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\bin\Debug\netcoreapp3.1\Algorithms_Assessment_Task.deps.json
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\bin\Debug\netcoreapp3.1\Algorithms_Assessment_Task.runtimeconfig.json
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\bin\Debug\netcoreapp3.1\Algorithms_Assessment_Task.runtimeconfig.dev.json
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\bin\Debug\netcoreapp3.1\Algorithms_Assessment_Task.dll
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\bin\Debug\netcoreapp3.1\Algorithms_Assessment_Task.pdb
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\obj\Debug\netcoreapp3.1\Algorithms_Assessment_Task.csprojAssemblyReference.cache
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\obj\Debug\netcoreapp3.1\Algorithms_Assessment_Task.Properties.Resources.resources
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\obj\Debug\netcoreapp3.1\Algorithms_Assessment_Task.csproj.GenerateResource.cache
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\obj\Debug\netcoreapp3.1\Algorithms_Assessment_Task.AssemblyInfoInputs.cache
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\obj\Debug\netcoreapp3.1\Algorithms_Assessment_Task.AssemblyInfo.cs
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\obj\Debug\netcoreapp3.1\Algorithms_Assessment_Task.dll
+E:\Swinburne\git repository\Algorithms-Task\Algorithms_Assessment_Task\Algorithms_Assessment_Task\obj\Debug\netcoreapp3.1\Algorithms_Assessment_Task.pdb
